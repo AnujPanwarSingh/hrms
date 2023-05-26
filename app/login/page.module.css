@@ -1,0 +1,66 @@
+.loginDiv {
+  height: 100vh;
+  width: 100vw;
+}
+
+.mainRow {
+  height: 100%;
+  position: relative;
+}
+
+.firstCol {
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.mainLogo {
+  text-align: center;
+  margin: auto;
+}
+.mainTitle {
+  text-align: center;
+  margin: auto;
+  cursor: pointer;
+  color: #04b0a8;
+  font-size: 16px;
+}
+.img {
+  text-align: center;
+  margin: auto;
+}
+
+.secondCol {
+  background-color: #f7f9fe;
+  z-index: 0;
+}
+
+.secondRow {
+  height: 100%;
+  position: relative;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2d4040;
+}
+
+.log {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2d4040;
+}
+
+.forgotLink {
+  text-align: end;
+  color: #3399ff;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.loginText {
+  font-size: 28px;
+  font-weight: 600;
+  color: #333;
+  /* margin-bottom: 150px; */
+}
